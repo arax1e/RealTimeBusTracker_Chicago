@@ -5,6 +5,9 @@ This program uses the Mapbox API and the Chicago Transit Authority's Bus Tracker
 
 This is a practice activity for MITx Pro's Web Development Class. The purpose of this activity is to get familiar with using API's to create a dynamic web page. 
 
+## How to Run
+To use this bus tracker, simply open the file in GitHub pages https://arax1e.github.io/RealTimeBusTracker_Chicago/, and you will see the location of Chicago's #66 Bus. 
+
 ## What's Next
 In the future, I would like to add colors to show which buses are going in which directions, and potentially allow the user to select which routes or directions the program tracks as well.
 
